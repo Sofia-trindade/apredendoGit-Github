@@ -17,7 +17,14 @@ Este repositório reúne meus estudos, anotações e exercícios práticos sobre
 ```
 📁 estudos-git-github
  ├── 📄 README.md
- ├── 📁 comandos-basicos
- ├── 📁 exercicios
- ├── 📁 anotações
- └── 📁 projetos-teste
+ 
+ Cada pasta contém materiais referentes ao tema indicado.
+
+---
+
+## 🧠 Tópicos Estudados
+
+- O que é Git e para que serve
+- Diferença entre Git e GitHub
+- Repositórios locais e remotos
+- Git diff, Commits e histórico de versões
