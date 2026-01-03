@@ -31,4 +31,4 @@ Este repositório reúne meus estudos, anotações e exercícios práticos sobre
 - Repositórios locais e remotos
 - Git diff, Commits e histórico de versões
 - Git log e restore
-- Clone,
+- Comando git Clone, push
