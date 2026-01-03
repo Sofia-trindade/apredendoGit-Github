@@ -33,3 +33,25 @@ Este repositório reúne meus estudos, anotações e exercícios práticos sobre
 - Git log e restore
 - Comando git clone, push e pull
 - Git fetch
+
+---
+
+## 🖥️ Principais Comandos Git
+
+Alguns comandos utilizados nos estudos:
+
+```bash
+git init
+git status
+git add .
+git commit -m "mensagem"
+git log
+git branch
+git checkout -b nova-branch
+git merge nome-da-branch
+git clone url-do-repositorio
+git push origin main
+git pull origin main
+```
+
+---
