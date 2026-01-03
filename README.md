@@ -11,3 +11,13 @@ Este repositório reúne meus estudos, anotações e exercícios práticos sobre
 - Entender fluxos de trabalho com branches  
 - Utilizar o GitHub para hospedagem e colaboração  
 - Documentar aprendizados de forma organizada
+
+## 📂 Estrutura do Repositório
+
+```
+📁 estudos-git-github
+ ├── 📄 README.md
+ ├── 📁 comandos-basicos
+ ├── 📁 exercicios
+ ├── 📁 anotações
+ └── 📁 projetos-teste
