@@ -18,6 +18,8 @@ Este repositório reúne meus estudos, anotações e exercícios práticos sobre
 📁 estudos-git-github
  ├── 📄 README.md
  
+ ```
+
  Cada pasta contém materiais referentes ao tema indicado.
 
 ---
