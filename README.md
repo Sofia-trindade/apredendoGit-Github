@@ -55,3 +55,24 @@ git pull origin main
 ```
 
 ---
+
+## 🤝 Contribuições
+
+Este repositório é um espaço de aprendizado contínuo.  
+Sugestões e contribuições são bem-vindas!
+
+---
+
+## 📌 Status do Projeto
+
+🟢 Em constante atualização
+
+---
+
+## 📎 Licença
+
+Este repositório possui fins educativos e é de uso pessoal.
+
+---
+
+✨ _Aprendizado contínuo é o melhor versionamento que podemos ter._
